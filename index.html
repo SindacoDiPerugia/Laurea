@@ -25,9 +25,23 @@
         a:hover {
             text-decoration: underline;
         }
-        img {
-            margin-top: 30px; /* Più spazio sopra l'immagine */
+        .image-container {
+            margin-top: 30px; /* Spazio sopra l'immagine */
+            display: inline-block;
+        }
+        .image-container img {
             width: 200px; /* Dimensione regolabile dell'immagine */
+            display: block;
+            transition: transform 0.8s ease-in-out;
+        }
+        /* ROTAZIONE ANTICLOCKWISE */
+        .image-container:hover img {
+            transform: rotate(-360deg); /* Rotazione completa antioraria */
+        }
+        .image-container p {
+            margin-top: 10px;
+            font-size: 1.2em;
+            font-weight: bold;
         }
     </style>
 </head>
@@ -36,7 +50,7 @@
     
     <a href="https://www.youtube.com/watch?v=R4yAKqrmlk8" target="_blank">IL PERUGIA È UNO SQUADRONE</a>
 
-     <a href="https://www.youtube.com/watch?v=Bd59rJsy1jo&t=27s" target="_blank">TROPPO VECCHIO IL VIDEO DE PRIMA? CHIAPPA SU QUESTO</a>
+    <a href="https://www.youtube.com/watch?v=Bd59rJsy1jo&t=27s" target="_blank">TROPPO VECCHIO IL VIDEO DE PRIMA? CHIAPPA SU QUESTO</a>
     
     <a href="https://www.youtube.com/watch?v=2OaxjbYtuQU" target="_blank">MA TU L'SE COMMAI STA TESI È BULA?</a>
 
