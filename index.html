@@ -11,6 +11,12 @@
             padding: 20px;
             background-color: red; /* Sfondo rosso */
             color: white; /* Testo bianco */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh; /* Per centrare tutto verticalmente */
+            margin: 0;
         }
         h1 {
             color: white; /* Titolo in bianco */
@@ -27,16 +33,22 @@
         }
         .image-container {
             margin-top: 30px; /* Spazio sopra l'immagine */
-            display: inline-block;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         .image-container img {
             width: 200px; /* Dimensione regolabile dell'immagine */
             display: block;
-            transition: transform 0.8s ease-in-out;
+            animation: rotateGrifo 3s linear infinite; /* Rotazione infinita */
         }
-        /* ROTAZIONE ANTICLOCKWISE */
-        .image-container:hover img {
-            transform: rotate(-360deg); /* Rotazione completa antioraria */
+        @keyframes rotateGrifo {
+            from {
+                transform: rotate(0deg);
+            }
+            to {
+                transform: rotate(-360deg);
+            }
         }
         .image-container p {
             margin-top: 10px;
