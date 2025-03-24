@@ -1,45 +1,16 @@
-<!DOCTYPE html>
-<html lang="it">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ringraziamenti</title>
-    <style>
-        body {
-            font-family: Georgia, serif;
-            background-color: #fff3e6;
-            color: #333;
-            padding: 40px;
-            line-height: 1.6;
-        }
-        h1 {
-            text-align: center;
-            color: #b30000;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Post Scriptum: Ringraziamenti</h1>
-        <p>Dopo aver scritto 200 pagine di tesi, mi sono reso conto di non aver ringraziato come si deve molte persone importanti che ho avuto la fortuna di conoscere in questi anni. Per questo, ho deciso di dedicare un post scriptum speciale ai miei ringraziamenti.
-<p>Il primo pensiero va al mio compagno di avventura, Alessandro, con cui oggi condivido questo giorno speciale. La tua amicizia è stata un regalo prezioso lungo questo percorso e sono certo che ricorderò questi momenti anche negli anni a venire. Grazie per la tua vicinanza, per l’ospitalità (tua e della tua famiglia) e per tutte le giornate e serate trascorse insieme. Spero davvero che la nostra amicizia prosegua anche dopo l’università, perché sei una persona straordinaria e meriti ogni successo, inclusa la bellissima esperienza che ti aspetta in Olanda.<p>
+Dopo aver scritto 200 pagine di tesi, mi sono reso conto di non aver ringraziato come si deve molte persone importanti che ho avuto la fortuna di conoscere in questi anni. Per questo, ho deciso di dedicare un post scriptum speciale ai miei ringraziamenti.
 
-<p>Un ringraziamento speciale va anche a Fabio, o meglio Febio, sempre ospitale nel quartier generale di via Perini. Fabio, la tua presenza è stata davvero preziosa e ogni cena improvvisata, ogni aperitivo fuori programma e ogni serata passata insieme hanno contribuito a rendere questa esperienza universitaria ancora più bella, ancora più intensa, ancora più "veneta". Sei una persona di cuore, sempre disponibile e con una simpatia contagiosa che ha reso ogni momento vissuto insieme qualcosa di speciale.<p>
+Il primo pensiero va al mio compagno di avventura, Alessandro, con cui oggi condivido questo giorno speciale. La tua amicizia è stata un regalo prezioso lungo questo percorso e sono certo che ricorderò questi momenti anche negli anni a venire. Grazie per la tua vicinanza, per l’ospitalità (tua e della tua famiglia) e per tutte le giornate e serate trascorse insieme. Spero davvero che la nostra amicizia prosegua anche dopo l’università, perché sei una persona straordinaria e meriti ogni successo, inclusa la bellissima esperienza che ti aspetta in Olanda.
 
-<p>Oltre alla leggerezza e al divertimento che voi due avete saputo portare, ho scoperto in voi degli amici sinceri e genuini, su cui si può sempre contare. Per questo, spero con tutto il cuore che la nostra amicizia possa continuare a lungo, anche se un domani le nostre strade dovessero prendere direzioni diverse per nuovi percorsi. L’affetto e la stima che ho per voi non cambieranno mai, indipendentemente dalla distanza o dal tempo che passerà. Tornassi indietro, passerei ancora più tempo in vostra compagnia, perché siete stati i grandi amici che mi mancavano, sempre presenti e disponibili. Sarebbe bello ritrovarci anche in futuro, ovunque siate, per condividere altri momenti insieme e aggiungere nuovi ricordi a quelli che già custodisco con gratitudine.<p>
+Un ringraziamento speciale va anche a Fabio, o meglio Febio, sempre ospitale nel quartier generale di via Perini. Fabio, la tua presenza è stata davvero preziosa e ogni cena improvvisata, ogni aperitivo fuori programma e ogni serata passata insieme hanno contribuito a rendere questa esperienza universitaria ancora più bella, ancora più intensa, ancora più "veneta". Sei una persona di cuore, sempre disponibile e con una simpatia contagiosa che ha reso ogni momento vissuto insieme qualcosa di speciale.
 
-<p>Infine, un grazie sentito alle splendide persone conosciute nelle avventure legnaghesi: Alessandro e Pietro. È stato un piacere condividere con voi giornate e serate indimenticabili a Legnago, con voi ho anche avuto il piacere di inaugurare il mio nuovo look proprio nelle terre legnaghesi, un dettaglio che di certo non dimenticherò, e spero di condividere altre giornate con voi. Mi sento incredibilmente fortunato ad avervi incontrato e ad essere stato accolto nella vostra amicizia. 
-Spero di vivere altri momenti insieme e creare nuovi ricordi da portare sempre con me.<p>
+Oltre alla leggerezza e al divertimento che voi due avete saputo portare, ho scoperto in voi degli amici sinceri e genuini, su cui si può sempre contare. Per questo, spero con tutto il cuore che la nostra amicizia possa continuare a lungo, anche se un domani le nostre strade dovessero prendere direzioni diverse per nuovi percorsi. L’affetto e la stima che ho per voi non cambieranno mai, indipendentemente dalla distanza o dal tempo che passerà. Tornassi indietro, passerei ancora più tempo in vostra compagnia, perché siete stati i grandi amici che mi mancavano, sempre presenti e disponibili. Sarebbe bello ritrovarci anche in futuro, ovunque siate, per condividere altri momenti insieme e aggiungere nuovi ricordi a quelli che già custodisco con gratitudine.
 
-<p>Quindi grazie di cuore a tutti voi: siete il vero regalo di questo viaggio ed il più grande regalo di questo percorso.</p>
+Infine, un grazie sentito alle splendide persone conosciute nelle avventure legnaghesi: Alessandro e Pietro. È stato un piacere condividere con voi giornate e serate indimenticabili a Legnago, con voi ho anche avuto il piacere di inaugurare il mio nuovo look proprio nelle terre legnaghesi, un dettaglio che di certo non dimenticherò, e spero di condividere altre giornate con voi. Mi sento incredibilmente fortunato ad avervi incontrato e ad essere stato accolto nella vostra amicizia. 
 
-        <p><strong>Quindi grazie di cuore a tutti voi: siete il vero regalo di questo viaggio ed il più grande regalo di questo percorso.</strong></p>
+Spero di vivere altri momenti insieme e creare nuovi ricordi da portare sempre con me.
 
-        <p>- Alessandro</p>
-    </div>
-</body>
-</html>
+Quindi grazie di cuore a tutti voi: siete il vero regalo di questo viaggio ed il più grande regalo di questo percorso.
+
+-Alessandro
+
